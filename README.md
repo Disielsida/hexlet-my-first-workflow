@@ -1,3 +1,3 @@
 # hexlet-my-first-workflow
 
-[![project-check](https://github.com/Disielsida/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)](https://github.com/Disielsida/hexlet-my-first-workflow/actions/workflows/hello-world.yml)
+[![hello-world](https://github.com/Disielsida/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)](https://github.com/Disielsida/hexlet-my-first-workflow/actions/workflows/hello-world.yml)
