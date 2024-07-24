@@ -1,4 +1,4 @@
-name: project-check
+name: hello-world
 on: 
   - push
   - pull_request
